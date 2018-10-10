@@ -1,2 +1,3 @@
 # hello-world
-First github project
+First github proje
+This section are the first edits of the branch
